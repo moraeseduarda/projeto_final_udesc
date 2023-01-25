@@ -1,0 +1,24 @@
+﻿CREATE DATABASE projeto_final_udesc;
+
+USE projeto_final_udesc;
+
+CREATE TABLE usuarios (
+	usuario_id INT AUTO_INCREMENT NOT NULL,
+	nome VARCHAR(50) NOT NULL,
+	email VARCHAR(100) NOT NULL,
+	senha VARCHAR(100) NOT NULL,
+
+	PRIMARY KEY (usuario_id)
+);
+
+CREATE TABLE noticia (
+	noticia_id INT AUTO_INCREMENT NOT NULL,
+	titulo VARCHAR(100) NOT NULL,
+	subtitulo VARCHAR(250) NOT NULL,
+	autor VARCHAR(50) NOT NULL,
+	calendario DATE NOT NULL,
+	imagem VARCHAR(200) NOT NULL,
+	texto VARCHAR(6000) NOT NULL,
+
+	PRIMARY KEY (noticia_id)
+);
