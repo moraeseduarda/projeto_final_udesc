@@ -22,13 +22,13 @@
             <form class="row mt-12 needs-validation" novalidate enctype="multipart/form-data" id="form" autocomplete="off" method="post" action="salvarCadastroNoticias.php">
                 <div class="form-group col-lg-6 was-validated">
                     <!-- Título da notícia -->
-                    <label class="form-label" for="titulo">Título da notícia*</label>
-                    <input class="form-control" type="text" maxlength="100" id="titulo" name="titulo" required>
+                    <label class="form-label" for="titulo">Título da notícia* (Caracteres máx. 50)</label>
+                    <input class="form-control" type="text" maxlength="50" id="titulo" name="titulo" required>
                 </div>
                 <div class="form-group col-lg-6 was-validated">
                     <!-- Subtítulo -->
-                    <label class="form-label" for="subtitulo">Subtítulo*</label>
-                    <input class="form-control" type="text" maxlength="250" id="subtitulo" name="subtitulo" required>
+                    <label class="form-label" for="subtitulo">Subtítulo* (Caracteres máx. 150)</label>
+                    <input class="form-control" type="text" maxlength="150" id="subtitulo" name="subtitulo" required>
                 </div>
                 <div class="form-group col-lg-6 was-validated">
                     <!-- Autor -->

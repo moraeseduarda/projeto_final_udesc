@@ -10,7 +10,13 @@ try {
 
     $pdo = new PDO($dadosPdo['dns'], $dadosPdo['usuario'], $dadosPdo['senha']);
     $sql = "SELECT 
-                *
+            noticia_id,
+            titulo, 
+            subtitulo, 
+            autor,
+            imagem, 
+            DATE_FORMAT(calendario, '%d/%m/%Y') AS calendario,
+            texto
             FROM noticia
             WHERE (noticia_id = :noticia_id)
             ORDER BY titulo
@@ -35,7 +41,7 @@ try {
                     <a class="bt-modal text-decoration-none" id="noticia-imagem"><img src="upload/' . $noticia['imagem'] . '" class="d-block w-100" alt="..."></a>
                     <h5 class="text-center p-2">' . $noticia['titulo'] . '</h5>
                     <p class="text-center">'. $noticia['subtitulo'] .'</p>
-                    <p class="text-center"><strong>' . $noticia['autor'] . ' - ' . $noticia['calendario'] . '</strong></p>
+                    <p class="text-center"><strong><a href="#" data-bs-toggle="tooltip" title="Lorem">' . $noticia['autor'] . '</a> - ' . $noticia['calendario'] . '</strong></p>
                     <p>' . $noticia['texto'] . '</p>
                 </div>
                 <div class="modal-footer">

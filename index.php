@@ -30,11 +30,12 @@ if(!$_SESSION['login']) {
             </div>
             <div class="modal-body">
               <a class="bt-modal text-decoration-none"><img src="img/carousel-1.jpg" class="d-block w-100" alt="..."></a>
-              <h5 class="text-center p-2">Nasa anuncia que humanos caminharão em 2025 no polo inexplorado da Lua</h5>
-              <p class="text-center">Mais de 50 anos após a Apollo 17, astronautas voltarão ao satélite a bordo da cápsula Orion, podendo explorar finalmente a região do sul lunar na missão Artemis 3</p>
-              <p class="text-center"><strong>Por Redação Galileu - 22/01/2023</strong></p>
-              <p>Após o sucesso da missão Artemis 1, lançada em novembro de 2022 em direção à órbita lunar, a Nasa anunciou em 13 de janeiro detalhes da Artemis 3, que levará humanos à Lua mais de 50 anos depois da última vez que a humanidade esteve no satélite, na Apollo 17, em 1972.</p>
-              <p>A agência espacial norte-americana confirmou que a Artemis 3 está planejada para 2025, quando uma tripulação será enviada até o polo sul lunar — nunca antes explorado por uma missão humana. Esta aventura ocorrerá depois da Artemis 2, que provará que os sistemas críticos da cápsula Orion estão prontos para sustentar astronautas em missões de longa duração.</p>
+              <h5 class="text-center p-2">Lorem ipsum dolor sit amet, consectetur adipiscing</h5>
+              <p class="text-center">Sed at risus neque. Cras sit amet ligula ut justo commodo porta id ut enim. Nulla est lectus, mollis sit amet vehicula id, volutpat eget mauris.</p>
+              <p class="text-center"><strong><a href="#" data-bs-toggle="tooltip" title="Lorem">Lorem</a> - 03/02/2023</strong></p>
+              <p>Nisl aliquam a consequat felis luctus vitae eget amet tempus magna, vestibulum metus fermentum morbi blandit phasellus sapien consequat adipiscing tempor, fringilla tellus porttitor dui egestas etiam vestibulum velit in. massa volutpat consequat vivamus ad arcu non tempus proin, leo purus fusce justo elit proin ut, tempor nullam vestibulum curabitur cubilia scelerisque ornare. neque donec at placerat non ultrices donec, cubilia pretium sapien eu fermentum, metus dui fames augue felis. vehicula posuere cubilia mollis rhoncus mi volutpat varius, lobortis inceptos tellus luctus aliquet sociosqu. erat lacus blandit faucibus facilisis vestibulum lacinia tellus lacinia ligula lectus, aliquet tempus tempor sapien augue congue netus litora interdum curae, molestie aliquam vulputate diam metus dictum pellentesque et lectus.<br><br>
+              Nisl aliquam a consequat felis luctus vitae eget amet tempus magna, vestibulum metus fermentum morbi blandit phasellus sapien consequat adipiscing tempor, fringilla tellus porttitor dui egestas etiam vestibulum velit in. massa volutpat consequat vivamus ad arcu non tempus proin, leo purus fusce justo elit proin ut, tempor nullam vestibulum curabitur cubilia scelerisque ornare. neque donec at placerat non ultrices donec, cubilia pretium sapien eu fermentum, metus dui fames augue felis. vehicula posuere cubilia mollis rhoncus mi volutpat varius, lobortis inceptos tellus luctus aliquet sociosqu. erat lacus blandit faucibus facilisis vestibulum lacinia tellus lacinia ligula lectus, aliquet tempus tempor sapien augue congue netus litora interdum curae, molestie aliquam vulputate diam metus dictum pellentesque et lectus.
+              </p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
@@ -53,11 +54,12 @@ if(!$_SESSION['login']) {
             </div>
             <div class="modal-body">
               <a class="bt-modal text-decoration-none"><img src="img/carousel-2.jpg" class="d-block w-100" alt="..."></a>
-              <h5 class="text-center p-2">Astrônomos medem massa da Via Láctea — e descobrem matéria "faltando"</h5>
-              <p class="text-center">Mais de 50 anos após a Apollo 17, astronautas voltarão ao satélite a bordo da cápsula Orion, podendo explorar finalmente a região do sul lunar na missão Artemis 3</p>
-              <p class="text-center"><strong>Por Redação Galileu - 21/01/2023</strong></p>
-              <p>Ao medirem a massa da nossa galáxia, astrônomos notaram que a Via Láctea pode ser mais leve do que o esperado. E mais: eles descobriram matéria bariônica “faltando” — ou seja, havia menos do que se imaginava da matéria que forma os átomos, nós, outros seres vivos, estrelas e planetas.</p>
-              <p>A descoberta publicada em pré-print no site arxiv.org foi apresentada no último dia 9 de janeiro por Vikram Ravi, professor assistente de astronomia do Instituto de Tecnologia da Califórnia (Caltech), na 241ª reunião da Sociedade Astrômica Americana, em Seattle, nos Estados Unidos.</p>
+              <h5 class="text-center p-2">Lorem ipsum dolor sit amet, consectetur adipiscing</h5>
+              <p class="text-center">Sed at risus neque. Cras sit amet ligula ut justo commodo porta id ut enim. Nulla est lectus, mollis sit amet vehicula id, volutpat eget mauris.</p>
+              <p class="text-center"><strong><a href="#" data-bs-toggle="tooltip" title="Lorem">Lorem</a> - 02/02/2023</strong></p>
+              <p>Nisl aliquam a consequat felis luctus vitae eget amet tempus magna, vestibulum metus fermentum morbi blandit phasellus sapien consequat adipiscing tempor, fringilla tellus porttitor dui egestas etiam vestibulum velit in. massa volutpat consequat vivamus ad arcu non tempus proin, leo purus fusce justo elit proin ut, tempor nullam vestibulum curabitur cubilia scelerisque ornare. neque donec at placerat non ultrices donec, cubilia pretium sapien eu fermentum, metus dui fames augue felis. vehicula posuere cubilia mollis rhoncus mi volutpat varius, lobortis inceptos tellus luctus aliquet sociosqu. erat lacus blandit faucibus facilisis vestibulum lacinia tellus lacinia ligula lectus, aliquet tempus tempor sapien augue congue netus litora interdum curae, molestie aliquam vulputate diam metus dictum pellentesque et lectus.<br><br>
+              Nisl aliquam a consequat felis luctus vitae eget amet tempus magna, vestibulum metus fermentum morbi blandit phasellus sapien consequat adipiscing tempor, fringilla tellus porttitor dui egestas etiam vestibulum velit in. massa volutpat consequat vivamus ad arcu non tempus proin, leo purus fusce justo elit proin ut, tempor nullam vestibulum curabitur cubilia scelerisque ornare. neque donec at placerat non ultrices donec, cubilia pretium sapien eu fermentum, metus dui fames augue felis. vehicula posuere cubilia mollis rhoncus mi volutpat varius, lobortis inceptos tellus luctus aliquet sociosqu. erat lacus blandit faucibus facilisis vestibulum lacinia tellus lacinia ligula lectus, aliquet tempus tempor sapien augue congue netus litora interdum curae, molestie aliquam vulputate diam metus dictum pellentesque et lectus.
+              </p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
@@ -76,11 +78,12 @@ if(!$_SESSION['login']) {
             </div>
             <div class="modal-body">
               <a class="bt-modal text-decoration-none"><img src="img/carousel-3.jpg" class="d-block w-100" alt="..."></a>
-              <h5 class="text-center p-2">Paradoxo sobre bolhas descrito por Leonardo da Vinci é finalmente resolvido</h5>
-              <p class="text-center">Estudiosos utilizaram tecnologia e matemática para explicar por que bolhas de ar emergem da água em zigue-zague</p>
-              <p class="text-center"><strong>Por Redação Galileu - 19/01/2023</strong></p>
-              <p>Os pesquisadores Jens G. Eggers, da Universidade de Bristol, na Inglaterra, e Miguel Ángel Herrada, da Universidade de Sevilha, na Espanha, conseguiram dar uma explicação para uma simples (mas paradoxal) observação documentada pelo pintor e inventor Leonardo da Vinci. Durante o Renascimento, o polímata descreveu o movimento instável de bolhas de ar se elevando na água. Essas bolhas emergem por movimentos em zigue-zague ou em espiral ao invés de subirem em linha reta até a superfície da água. Acontece que, até agora, não havia uma explicação física para esse comportamento.</p>
-              <p>Publicado no periódico PNAS, o estudo estabelece, de forma inédita, uma descrição quantitativa do fenômeno para explicar o movimento periódico da bolha emergindo do fundo da água. Para isso, eles desenvolveram uma técnica de discretização numérica para qualificar a precisão da interface entre ar e água e entender melhor o domínio físico da bolha.</p>
+              <h5 class="text-center p-2">Lorem ipsum dolor sit amet, consectetur adipiscing</h5>
+              <p class="text-center">Sed at risus neque. Cras sit amet ligula ut justo commodo porta id ut enim. Nulla est lectus, mollis sit amet vehicula id, volutpat eget mauris.</p>
+              <p class="text-center"><strong><a href="#" data-bs-toggle="tooltip" title="Lorem">Lorem</a> - 01/02/2023</strong></p>
+              <p>Nisl aliquam a consequat felis luctus vitae eget amet tempus magna, vestibulum metus fermentum morbi blandit phasellus sapien consequat adipiscing tempor, fringilla tellus porttitor dui egestas etiam vestibulum velit in. massa volutpat consequat vivamus ad arcu non tempus proin, leo purus fusce justo elit proin ut, tempor nullam vestibulum curabitur cubilia scelerisque ornare. neque donec at placerat non ultrices donec, cubilia pretium sapien eu fermentum, metus dui fames augue felis. vehicula posuere cubilia mollis rhoncus mi volutpat varius, lobortis inceptos tellus luctus aliquet sociosqu. erat lacus blandit faucibus facilisis vestibulum lacinia tellus lacinia ligula lectus, aliquet tempus tempor sapien augue congue netus litora interdum curae, molestie aliquam vulputate diam metus dictum pellentesque et lectus.<br><br>
+              Nisl aliquam a consequat felis luctus vitae eget amet tempus magna, vestibulum metus fermentum morbi blandit phasellus sapien consequat adipiscing tempor, fringilla tellus porttitor dui egestas etiam vestibulum velit in. massa volutpat consequat vivamus ad arcu non tempus proin, leo purus fusce justo elit proin ut, tempor nullam vestibulum curabitur cubilia scelerisque ornare. neque donec at placerat non ultrices donec, cubilia pretium sapien eu fermentum, metus dui fames augue felis. vehicula posuere cubilia mollis rhoncus mi volutpat varius, lobortis inceptos tellus luctus aliquet sociosqu. erat lacus blandit faucibus facilisis vestibulum lacinia tellus lacinia ligula lectus, aliquet tempus tempor sapien augue congue netus litora interdum curae, molestie aliquam vulputate diam metus dictum pellentesque et lectus.
+              </p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
@@ -89,7 +92,6 @@ if(!$_SESSION['login']) {
         </div>
       </div>
         <!-- Modal com detalhes das notícias listadas -->
-
       <div class="modal fade" id="noticia-detalhe" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-scrollable modal-lg">
             <div class="modal-content">
@@ -110,7 +112,7 @@ if(!$_SESSION['login']) {
                 </div>
             </div>
         </div>
-    </div>
+      </div>
       <!-- Principal -->
       <div class="container-fluid">
         <!-- Header, media links, navbar -->
@@ -182,9 +184,9 @@ if(!$_SESSION['login']) {
                             </a>
                             <!-- Disabled -->
                             <ul class="dropdown-menu">
-                              <li><a class="dropdown-item disabled" href="#">Ciência</a></li>
-                              <li><a class="dropdown-item disabled" href="#">Arqueologia</a></li>
-                              <li><a class="dropdown-item disabled" href="#">História</a></li>
+                              <li><a class="dropdown-item disabled" href="#">Regionais</a></li>
+                              <li><a class="dropdown-item disabled" href="#">Nacionais</a></li>
+                              <li><a class="dropdown-item disabled" href="#">Internacionais</a></li>
                             </ul>
                           </li>
                           <li class="nav-item"> 
@@ -220,22 +222,22 @@ if(!$_SESSION['login']) {
                 <div class="carousel-item active">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop"><img src="img/carousel-1.jpg" class="d-block w-100" alt="..."></a>
                   <div class="carousel-caption">
-                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop"><h5>Nasa anuncia que humanos caminharão em 2025 no polo inexplorado da Lua</h5></a>
-                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop"><p>Mais de 50 anos após a Apollo 17, astronautas voltarão ao satélite a bordo da cápsula Orion, podendo explorar finalmente a região do sul lunar na missão Artemis 3</p></a>
+                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop"><h5>Lorem ipsum dolor sit amet, consectetur adipiscing</h5></a>
+                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop"><p>Sed at risus neque. Cras sit amet ligula ut justo commodo porta id ut enim. Nulla est lectus, mollis sit amet vehicula id, volutpat eget mauris</p></a>
                   </div>
                 </div>
                 <div class="carousel-item">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop2"><img src="img/carousel-2.jpg" class="d-block w-100" alt="..."></a>
                   <div class="carousel-caption">
-                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop2"><h5>Astrônomos medem massa da Via Láctea — e descobrem matéria "faltando"</h5></a>
-                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop2"><p>Leveza inesperada foi detectada com explosão de ondas de rádio vinda de uma galáxia próxima, que serviu para inspecionar halo de gás da nossa própria galáxia</p></a>
+                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop2"><h5>Lorem ipsum dolor sit amet, consectetur adipiscing</h5></a>
+                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop2"><p>Sed at risus neque. Cras sit amet ligula ut justo commodo porta id ut enim. Nulla est lectus, mollis sit amet vehicula id, volutpat eget mauris</p></a>
                   </div>
                 </div>
                 <div class="carousel-item">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop3"><img src="img/carousel-3.jpg" class="d-block w-100" alt="..."></a>
                   <div class="carousel-caption">
-                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop3"><h5>Paradoxo sobre bolhas descrito por Leonardo da Vinci é finalmente resolvido</h5></a>
-                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop3"><p>Estudiosos utilizaram tecnologia e matemática para explicar por que bolhas de ar emergem da água em zigue-zague</p></a>
+                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop3"><h5>Lorem ipsum dolor sit amet, consectetur adipiscing</h5></a>
+                    <a href="#" style="text-decoration: none;" class="text-light" data-bs-toggle="modal" data-bs-target="#scrollableBackdrop3"><p>Sed at risus neque. Cras sit amet ligula ut justo commodo porta id ut enim. Nulla est lectus, mollis sit amet vehicula id, volutpat eget mauris</p></a>
                   </div>
                 </div>
               </div>
@@ -262,10 +264,6 @@ if(!$_SESSION['login']) {
                     <strong>Rocket news</strong> 
                       <br>
                       Site de notícias.
-                      <br>
-                      Fonte das notícias: 
-                      <a class="link-success" href="https://revistagalileu.globo.com/" target="_blank">Revista Galileu
-                      </a>
                       <br><br>
                       <strong>Projeto final - Curso Web Full-Stack Udesc</strong>
                       <br>
@@ -307,7 +305,7 @@ if(!$_SESSION['login']) {
                   <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                       <strong>Confira o código-fonte</strong> do projeto no link abaixo:
-                      <a href="https://github.com/moraeseduarda?tab=repositories" class="text-danger" target="_blank" class="btn">https://github.com/moraeseduarda?tab=repositories
+                      <a href="https://github.com/moraeseduarda/projeto_final_udesc" class="text-danger" target="_blank" class="btn">https://github.com/projeto
                       </a>
                     </div>
                   </div>
@@ -382,10 +380,7 @@ if(!$_SESSION['login']) {
           </div>
           <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
             © 2022 Eduarda Moraes dos Santos -
-            Aplicação WEB sem fins lucrativos.
-            <br>
-            Fonte das notícias:
-            <a class="text-dark" href="https://revistagalileu.globo.com/">Revista Galileu</a>
+            Aplicação WEB.
           </div>
         </footer>
       </div>

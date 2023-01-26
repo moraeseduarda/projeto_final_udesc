@@ -4,9 +4,15 @@ require_once 'parametros.php';
 try {
     $pdo = new PDO($dadosPdo['dns'], $dadosPdo['usuario'], $dadosPdo['senha']);
     $sql = "SELECT
-                *
+                noticia_id,
+                titulo, 
+                subtitulo, 
+                autor,
+                imagem, 
+                DATE_FORMAT(calendario, '%d/%m/%Y') AS calendario,
+                texto
                 FROM noticia
-                ORDER BY calendario DESC";
+                ORDER BY noticia_id DESC";
 
     $noticiaList = $pdo->query($sql)->fetchAll(PDO::FETCH_ASSOC);
     $html = '';
